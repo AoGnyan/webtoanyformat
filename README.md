@@ -23,7 +23,7 @@ To get started:
 4. Copy and paste the code from this repository into the new Jupyter notebook file and run it.
 
 
-# Adding Required Libraries
+## Adding Required Libraries
 
 To run the script, you will need to install the following libraries:
 
