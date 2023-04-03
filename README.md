@@ -41,12 +41,12 @@ pip install os
 
 To use the script, you will need to modify the input directory and the output format to match your needs. Here's how you can do it:
 
--In the code, replace /path/to/webp/files with the path to the directory that contains the .webp files you want to convert.
--In the code, replace /path/to/jpg/files with the path to the directory where you want to save the converted files. 
--You can also replace .jpg with the file extension of your choice.
--Run the script by pressing the "Run" button in the Jupyter notebook.
--The script will convert all of the .webp files in the input directory to the specified output format and save them in the output directory.
--The original .webp files will be moved to a new folder named "old".
+- In the code, replace /path/to/webp/files with the path to the directory that contains the .webp files you want to convert.
+- In the code, replace /path/to/jpg/files with the path to the directory where you want to save the converted files. 
+- You can also replace .jpg with the file extension of your choice.
+- Run the script by pressing the "Run" button in the Jupyter notebook.
+- The script will convert all of the .webp files in the input directory to the specified output format and save them in the output directory.
+- The original .webp files will be moved to a new folder named "old".
 
 ## Troubleshooting
 
