@@ -1,4 +1,4 @@
-# webtoanyformat
+# Make any .webp files to practically any format you want
  Small python script to make webp into almost any picture format.
 Just slap it on a Jupyter notebook, obviously change the dir and the format you need and voilla
 
