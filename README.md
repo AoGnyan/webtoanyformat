@@ -10,8 +10,6 @@ Before using this script, you will need:
 2.  Required Python Libraries
     - Pillow - a Python Imaging Library (PIL) fork.
     - os - a module that provides a portable way of using operating system dependent functionality.
-    
-    To install these libraries, you can use the pip package manager. Open your terminal or command prompt 
 
 3. [Vs code](https://code.visualstudio.com).
 
